@@ -3,6 +3,8 @@ package oop2;
 import java.io.Serializable;
 
 // test
+// test lan 2
+
 public class PhongThucHanh implements Serializable{
 
     private String maPhong;
