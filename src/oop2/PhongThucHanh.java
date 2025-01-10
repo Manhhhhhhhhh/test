@@ -49,6 +49,10 @@ public class PhongThucHanh implements Serializable{
         this.loaiPhongThucHanh = loaiPhongThucHanh;
     }
 
+    public String toString(){
+        return "";
+    }
+    
     public Object[] toObject(){
         return new Object[]{
             maPhong, tenPhongThucHanh, soLuongMayTinh, loaiPhongThucHanh
