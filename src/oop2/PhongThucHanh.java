@@ -2,7 +2,7 @@ package oop2;
 
 import java.io.Serializable;
 
-
+// test
 public class PhongThucHanh implements Serializable{
 
     private String maPhong;
